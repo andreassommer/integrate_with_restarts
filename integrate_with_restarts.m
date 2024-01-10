@@ -55,7 +55,7 @@ function varargout = integrate_with_restarts(solORsolver, odefun, tspan, y0, var
 %
 % (c) Andreas Sommer, Nov2016, Feb2017, Jun2017
 % andreas.sommer@iwr.uni-heidelberg.de
-% email@andreas-sommer.eu
+% code@andreas-sommer.eu
 %
 
 % Changelog
